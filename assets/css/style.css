@@ -11,15 +11,43 @@ footer {
   height: 60px;
   width: 100%;
   line-height: 60px;
-  background-color: #BBCDE5;
 }
 
-header {
+nav{
+  height: 60px;
+  width: 100%;
+  line-height: 60px;
   text-align: right;
+  background-color: #BBCDE5;
 }
 
 li {
   display: inline;
   padding: 0px 20px;
   text-decoration: none;
+}
+
+img {
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border: 5px solid #222222;
+}
+
+#profile{
+  width: 300px;
+}
+
+#workImg{
+  width: 500px;
+}
+
+p {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+figcaption {
+  text-align: center;
 }
