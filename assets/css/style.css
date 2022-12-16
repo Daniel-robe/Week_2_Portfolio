@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
@@ -13,12 +19,20 @@ footer {
   line-height: 60px;
 }
 
+h1{
+  margin: 20px;
+}
+
+h4{
+  margin-left: 20px;
+}
+
 nav{
   height: 60px;
   width: 100%;
   line-height: 60px;
   text-align: right;
-  background-color: #BBCDE5;
+  background-color: #639FAB;
 }
 
 li {
@@ -26,6 +40,17 @@ li {
   padding: 0px 20px;
   text-decoration: none;
 }
+
+#contactList{
+  background-color: #64A5E3;
+  margin: 0px;
+}
+
+a{
+  text-decoration: none;
+  color: #222222;
+}
+
 
 img {
   height: auto;
@@ -50,4 +75,10 @@ p {
 
 figcaption {
   text-align: center;
+  padding-bottom: 20px;
+}
+
+section{
+  background-color: #BBCDE5;
+  padding: 20px 10px 40px 10px;
 }
