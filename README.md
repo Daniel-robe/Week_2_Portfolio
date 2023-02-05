@@ -7,6 +7,8 @@ Created a basic starter portfolio to display the projects we have currently comp
 ## Links
 
 Link to repository - https://github.com/Daniel-robe/Week_2_Portfolio
-Link to deployed site -
+Link to deployed site - https://daniel-robe.github.io/Week_2_Portfolio/
 
-## Screenshots
+## Screenshots 
+
+![Screenshot 1](./assets/img/screenshot-one.JPG)
